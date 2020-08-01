@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/Hock/Aux.js
 /.pnp
 .pnp.js
 
