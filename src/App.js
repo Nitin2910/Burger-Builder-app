@@ -7,6 +7,7 @@ import BurgerBuilder from './Container/BurgerBuilder/BurgerBuilder';
 function App() {
   return (
     <div>
+
       <Layout>
         <BurgerBuilder></BurgerBuilder>
       </Layout>
